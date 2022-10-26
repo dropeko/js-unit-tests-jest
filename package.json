@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-tests-jest",
+  "version": "1.0.0",
+  "description": "Repositório criado para carregar meu projeto de testes com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropeko/js-unit-tests-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dropeko/js-unit-tests-jest/issues"
+  },
+  "homepage": "https://github.com/dropeko/js-unit-tests-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
